@@ -21,15 +21,15 @@ en: &DEFAULT_EN
     text: "재밌는 일을 찾아 떠나는것을 좋아합니다. 의사소통을 중요시하며 함께 프로젝트를 진전하는것에 의의를 두고있습니다. 혁신성을 갖춘 제품을 만들어 보고싶습니다."
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Embedded"
+        desc: "Arduino, Jeston Nano, Jeston Xavier, Avermedia Jetson, etc.."
+        icon: fas fa-microchip #find more at https://fontawesome.com/icons
+      - title: "Cloud"
+        desc: " drffd"
+        icon: fas fa-cloud
+      - title: "Wireless"
+        desc: " dfgdfg "
+        icon: fas fa-wifi
 
   portfolio:
     title: "Portfolio"
@@ -159,6 +159,7 @@ en: &DEFAULT_EN
         icon: "fab fa-github"
       - url: https://instagram.com
         icon: "fab fa-instagram"
+
 en-US:
   <<: *DEFAULT_EN
 en-CA:
