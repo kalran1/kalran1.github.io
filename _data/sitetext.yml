@@ -11,14 +11,14 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to my site !
-    text: It's Nice To Meet You
+    title: Hello I am Embedded developer 
+    text:  You Won Seo
     button: Tell Me More
     buttonlink: "#services"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "About Me"
+    text: "재밌는 일을 찾아 떠나는것을 좋아합니다. 의사소통을 중요시하며 함께 프로젝트를 진전하는것에 의의를 두고있습니다. 혁신성을 갖춘 제품을 만들어 보고싶습니다."
     section: services
     list:
       - title: "E-Commerce"
@@ -68,9 +68,9 @@ en: &DEFAULT_EN
         align: right
     end: "Be Part <br> of Our <br> Story!"
 
-  about:
-    title: "About Us"
-    text: "our story"
+  aspiration:
+    title: "Aspiration"
+    text: "나의 포부"
     body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
     section: about
 
