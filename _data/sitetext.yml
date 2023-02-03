@@ -71,8 +71,9 @@ en: &DEFAULT_EN
   aspiration:
     title: "Aspiration"
     text: "나의 포부"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: "test"
     section: about
+
 
   clients:
     section: clients
