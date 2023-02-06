@@ -29,7 +29,7 @@ en: &DEFAULT_EN
         desc: "Arduino, Jeston Nano, Jeston Xavier"
         icon: fas fa-microchip #find more at https://fontawesome.com/icons
       - title: "Cloud"
-        desc: "Firebase, Amazon EC2, Google Cloud, Mongodb"
+        desc: "Firebase, Amazon EC2, IBM Cloud, Google Cloud, Mongodb"
         icon: fas fa-cloud
       - title: "Wireless"
         desc: "Lorawan, Mqtt"

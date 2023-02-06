@@ -1,15 +1,16 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/04-full.jpg
+title: Smart Sensor
+subtitle: 배터리 생산라인 전용 스마트센서 개발 
+#image: assets/img/portfolio/04-full.jpg
 alt: 
 
 caption:
-  title: Lines
-  subtitle: Branding
-  thumbnail: assets/img/portfolio/04-thumbnail.jpg
+  title: Smart Sensor
+  subtitle: 배터리 생산라인 전용 스마트센서 개발 
+  thumbnail: assets/img/portfolio/04-thumbnail1.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+배터리 생산 라인 디지털 트윈 모델 개발
+  - IoT 구현용 통신 모듈 개발
 
 {:.list-inline}
 - Date: October 2019

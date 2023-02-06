@@ -1,4 +1,4 @@
----
+//---
 title: Project Name
 subtitle: Lorem ipsum dolor sit amet consectetur.
 image: assets/img/portfolio/05-full.jpg
