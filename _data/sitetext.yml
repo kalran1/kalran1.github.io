@@ -18,22 +18,26 @@ en: &DEFAULT_EN
 
   services: 
     title: "About Me"
-    text: "재밌는 일을 찾아 떠나는것을 좋아합니다. 의사소통을 중요시하며 함께 프로젝트를 진전하는것에 의의를 두고있습니다. 혁신성을 갖춘 제품을 만들어 보고싶습니다."
+    text: |  
+      "재밌는 일을 찾아 떠나는것을 좋아합니다.           
+      의사소통을 중요시하며 함께 프로젝트를 진전하는것에 의의를 두고있습니다.  
+      혁신성을 갖춘 제품을 만들어 보고싶습니다."
+    
     section: services
     list:
       - title: "Embedded"
-        desc: "Arduino, Jeston Nano, Jeston Xavier, Avermedia Jetson, etc.."
+        desc: "Arduino, Jeston Nano, Jeston Xavier"
         icon: fas fa-microchip #find more at https://fontawesome.com/icons
       - title: "Cloud"
-        desc: " drffd"
+        desc: "Firebase, Amazon EC2, Google Cloud, Mongodb"
         icon: fas fa-cloud
       - title: "Wireless"
-        desc: " dfgdfg "
+        desc: "Lorawan, Mqtt"
         icon: fas fa-wifi
 
   portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: ""
     section: portfolio
     closebutton: "Close Project"
 
