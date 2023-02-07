@@ -32,7 +32,7 @@ caption:
 
     음성인식으로 PLC를 원격제어 및 수동체크​
 
-    https://youtu.be/TvTHeqRGw7Q
+    Link: https://youtu.be/TvTHeqRGw7Q
 
 {:.list-inline}
 - Date: December 2020

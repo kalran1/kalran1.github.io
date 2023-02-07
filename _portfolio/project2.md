@@ -36,9 +36,9 @@ caption:
 
     클라우드 저장소에서 전등의 온오프 관리​
 
-    https://youtu.be/RyvKv5XA9Pc​
+    Link: https://youtu.be/RyvKv5XA9Pc​
 
-    https://github.com/kalran1/kalran/tree/master/Arduino/capston/6th​
+    Link: https://github.com/kalran1/kalran/tree/master/Arduino/capston/6th​
 
 
 {:.list-inline}
