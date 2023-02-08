@@ -108,7 +108,7 @@ en: &DEFAULT_EN
     people:
       - name: "YOU WON SEO"
         role: "Embedded Developer"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/1.png
         social:
           - url: https://github.com/kalran1
             icon: fab fa-github
@@ -117,7 +117,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "call me"
+    text: ""
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."

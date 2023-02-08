@@ -1,7 +1,7 @@
 ---
 title: Smart Factory
 subtitle:  배터리 제조라인용 스마트 팩토리 Kit 개발 
-#image: assets/img/portfolio/03-full.jpg
+image: assets/img/portfolio/03-full1.jpg
 alt: 
 
 caption:

@@ -1,7 +1,7 @@
 ---
 title: Smart Sensor
 subtitle: 배터리 생산라인 전용 스마트센서 개발 
-#image: assets/img/portfolio/04-full.jpg
+image: assets/img/portfolio/04-full1.png
 alt: 
 
 caption:
