@@ -34,4 +34,5 @@ We may update this privacy policy from time to time for personal, operational, l
 
 **CONTACT US**
 
-For more information about our privacy practices or if you have questions, please contact us by email at <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
+For more information about our privacy practices or if you have questions, please contact us by email at seoyouwon96@gmail.com 
+<a href="mailto:{{ site.email }}">{{ site.email }}</a>.

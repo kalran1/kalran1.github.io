@@ -18,10 +18,8 @@ en: &DEFAULT_EN
 
   services: 
     title: "About Me"
-    text: |  
-      "재밌는 일을 찾아 떠나는것을 좋아합니다.           
-      의사소통을 중요시하며 함께 프로젝트를 진전하는것에 의의를 두고있습니다.  
-      혁신성을 갖춘 제품을 만들어 보고싶습니다."
+    text: "" 
+      
     
     section: services
     list:
@@ -44,39 +42,41 @@ en: &DEFAULT_EN
 
   timeline:
     title: "Timeline"
-    text: "Lorem ipsum timeline"
+    text: ""
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
+      - title: "자동차 공학 연구소 "
+        year: "2021-2023"
+        desc: "임베디드 개발 업무를 주로 맡았으며 스마트 팩토리, 센서 AI Nvidia Jetson 엣지 플랫폼 개발 , 각종 DataBase ,웹 프론트 서버와 연결, node-red를 사용한 대시보드 형성, 무선통신 개발 등을 하였습니다."
+        image: assets/img/timeline/logo1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
-        alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
-        alt:
+      #- title: "An Agency is Born"
+        #year: "March 2011"
+        #desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        #image: assets/img/timeline/2.jpg
+        #alt:
+      #- title: "Jekyll Theme is created"
+        #year: "2019"
+        #desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+        #image: assets/img/timeline/3.jpg
+        #alt: image alt text
+      #- title: "Title"
+        #year: "2009-2011"
+        #desc: "Your description here, **Markdown** is fully supported."
+        #image: assets/img/timeline/4.jpg
+        #alt:
         # you can enforce the alignment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: "Be Part <br> of My <br> Story!"
 
   about:
     title: "Aspiration"
-    text: "나의 포부"
-    body: "test"
+    text: ""
+    body: "재밌는 일을 찾아 떠나는것을 좋아하며,           
+      의사소통과 함께 원활하게 프로젝트를 진전하는것에 의의를 두고있습니다.  
+      혁신성을 갖춘 제품을 만들어 보고싶습니다."
     section: about
 
 
@@ -102,7 +102,7 @@ en: &DEFAULT_EN
 
   team:
     title: "My Profile"
-    text: "개인 프로필"
+    text: ""
     subtext: ""
     section: team
     people:
@@ -116,8 +116,8 @@ en: &DEFAULT_EN
 
 
   contact:
-    title: "Contact Us"
-    text: " test"
+    title: "Contact Me"
+    text: " "
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
